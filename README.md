@@ -24,6 +24,12 @@
 ![](https://img.shields.io/badge/Rust-SuperNoob-000?style=flat-square&logo=Rust)
 ![](https://img.shields.io/badge/Python-Shit-3776AB?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/PHP-Good-777BB4?style=flat-square&logo=PHP)
+
+### style
+4 space size tab user
+- https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/
+
+
 <!--
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
