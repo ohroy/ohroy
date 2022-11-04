@@ -2,13 +2,8 @@
 
 #### About me
 ```
-// TODO: add some profile...
-* 意见领袖
-* 嘴强王者
-* 著名喷子
-* 玄学大师
-* 键盘侠
-* 红心少年
+I am looking for a remote job
+我正在寻找一个可以接受远程的工作
 ```
 #### Editor&IDE
 [![](https://img.shields.io/badge/Editor-vim-019733?style=flat-square&logo=Vim)](https://www.vim.org/)
