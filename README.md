@@ -32,3 +32,8 @@ c++ / rust etc...
 4 space size tab user
 - https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/
 
+### lang
+![https://github-readme-stats.vercel.app/api/top-langs/?username=rozbo&langs_count=15&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=rozbo&langs_count=15&layout=compact)
+
+### summary
+![https://github-readme-stats.vercel.app/api?theme=synthwave&username=rozbo&show_icons=true](https://github-readme-stats.vercel.app/api?theme=synthwave&username=rozbo&show_icons=true)
