@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+security researcher and full stack web developer from China.
+
 #### About me
 ```
 I am looking for a remote job
