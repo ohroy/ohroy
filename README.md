@@ -15,6 +15,7 @@ backend
 * php(laravel xxx)
 
 frontend
+* react
 * vue
 * typescript
 
