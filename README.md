@@ -11,7 +11,7 @@ I am looking for a remote job
 #### FullStack Web Engineer
 backend
 * java(springXXXX)
-* dotnet
+* dotnet (abp)
 * php(laravel xxx)
 
 frontend
@@ -29,11 +29,6 @@ c++ / rust etc...
 [![](https://img.shields.io/badge/Editor-NeoVim-51a143?style=flat-square&logo=Neovim)](https://www.neovim.io/)
 [![](https://img.shields.io/badge/IDE-JetBrains-714587?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/?from=puck)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-
-
-### style
-4 space size tab user
-- https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/
 
 ### lang
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=rozbo&langs_count=15&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=rozbo&langs_count=15&layout=compact)
