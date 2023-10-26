@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-security researcher and full stack web developer from China.
+Security researcher and full stack web developer from China.
 
 #### About me
 ```
-I am looking for a remote job
+I am looking for a remote work
 
 我正在寻找一个可以接受远程的工作
 ```
