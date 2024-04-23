@@ -4,9 +4,7 @@ Security researcher and full stack web developer from China.
 
 #### About me
 ```
-I am looking for a remote work
-
-我正在寻找一个可以接受远程的工作
+as you can see.
 ```
 #### FullStack Web Engineer
 backend
