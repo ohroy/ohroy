@@ -29,7 +29,7 @@ c++ / rust etc...
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
 ### lang
-![https://github-readme-stats.vercel.app/api/top-langs/?username=rozbo&langs_count=15&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=rozbo&langs_count=15&layout=compact)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=ohroy&langs_count=15&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ohroy&langs_count=15&layout=compact)
 
 ### summary
-![https://github-readme-stats.vercel.app/api?theme=synthwave&username=rozbo&show_icons=true](https://github-readme-stats.vercel.app/api?theme=synthwave&username=rozbo&show_icons=true)
+![https://github-readme-stats.vercel.app/api?theme=synthwave&username=ohroy&show_icons=true](https://github-readme-stats.vercel.app/api?theme=synthwave&username=ohroy&show_icons=true)
