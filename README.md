@@ -33,3 +33,7 @@ c++ / rust etc...
 
 ### summary
 ![https://github-readme-stats.vercel.app/api?theme=synthwave&username=ohroy&show_icons=true](https://github-readme-stats.vercel.app/api?theme=synthwave&username=ohroy&show_icons=true)
+
+
+![GitHub Snake Light](https://github.com/ohroy/ohroy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Dark Light](https://github.com/ohroy/ohroy/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only#gh-dark-mode-only)
